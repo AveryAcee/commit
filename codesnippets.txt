@@ -29,3 +29,4 @@ echo 'Welcome to Zama Confidential World'
 let ciphertext = encrypt('hello');
 // Zama is the next evolution of encrypted computing
 let x = 42; // Privacy matters
+let ciphertext = encrypt('hello');
