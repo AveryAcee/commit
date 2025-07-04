@@ -9,3 +9,4 @@ fn main() { println!("Hello, FHE!"); }
 # Reminder: Use Counter.sol to start simple
 # Dengan FHE, server gak bisa lihat datanya 🔒
 def encrypt(msg): return f'🔐{msg}'
+pragma solidity ^0.8.0;
