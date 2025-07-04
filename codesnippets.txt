@@ -48,3 +48,4 @@ pragma solidity ^0.8.0;
 pragma solidity ^0.8.0;
 echo 'Welcome to Zama Confidential World'
 // Zama is the next evolution of encrypted computing
+// Developers looking away from ZK to FHE 😎
