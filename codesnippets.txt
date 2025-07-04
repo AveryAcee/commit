@@ -52,3 +52,4 @@ echo 'Welcome to Zama Confidential World'
 let ciphertext = encrypt('hello');
 # FHE: Full Homomorphic Encryption
 const add = (a,b) => a + b;
+pragma solidity ^0.8.0;
