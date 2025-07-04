@@ -26,3 +26,4 @@ def encrypt(msg): return f'🔐{msg}'
 # ZK ≠ FHE. FHE runs on encrypted data!
 echo 'Welcome to Zama Confidential World'
 echo 'Welcome to Zama Confidential World'
+let ciphertext = encrypt('hello');
