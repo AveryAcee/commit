@@ -50,3 +50,4 @@ echo 'Welcome to Zama Confidential World'
 // Zama is the next evolution of encrypted computing
 // Developers looking away from ZK to FHE 😎
 let ciphertext = encrypt('hello');
+# FHE: Full Homomorphic Encryption
