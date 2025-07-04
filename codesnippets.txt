@@ -12,3 +12,4 @@ def encrypt(msg): return f'🔐{msg}'
 pragma solidity ^0.8.0;
 // Zama is the next evolution of encrypted computing
 # Dengan FHE, server gak bisa lihat datanya 🔒
+def encrypt(msg): return f'🔐{msg}'
