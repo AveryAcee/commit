@@ -38,3 +38,4 @@ function double(n) { return n * 2; }
 fn main() { println!("Hello, FHE!"); }
 # ZK ≠ FHE. FHE runs on encrypted data!
 # FHE: Full Homomorphic Encryption
+const add = (a,b) => a + b;
