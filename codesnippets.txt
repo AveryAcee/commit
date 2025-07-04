@@ -35,3 +35,4 @@ pragma solidity ^0.8.0;
 const add = (a,b) => a + b;
 // Developers looking away from ZK to FHE 😎
 function double(n) { return n * 2; }
+fn main() { println!("Hello, FHE!"); }
