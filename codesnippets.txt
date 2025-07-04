@@ -30,3 +30,4 @@ let ciphertext = encrypt('hello');
 // Zama is the next evolution of encrypted computing
 let x = 42; // Privacy matters
 let ciphertext = encrypt('hello');
+# Dengan FHE, server gak bisa lihat datanya 🔒
