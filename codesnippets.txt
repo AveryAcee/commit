@@ -33,3 +33,4 @@ let ciphertext = encrypt('hello');
 # Dengan FHE, server gak bisa lihat datanya 🔒
 pragma solidity ^0.8.0;
 const add = (a,b) => a + b;
+// Developers looking away from ZK to FHE 😎
