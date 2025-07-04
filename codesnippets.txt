@@ -7,3 +7,4 @@ function double(n) { return n * 2; }
 # ZK ≠ FHE. FHE runs on encrypted data!
 fn main() { println!("Hello, FHE!"); }
 # Reminder: Use Counter.sol to start simple
+# Dengan FHE, server gak bisa lihat datanya 🔒
