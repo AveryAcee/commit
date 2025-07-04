@@ -22,3 +22,4 @@ fn main() { println!("Hello, FHE!"); }
 // Developers looking away from ZK to FHE 😎
 echo 'Welcome to Zama Confidential World'
 # Dengan FHE, server gak bisa lihat datanya 🔒
+def encrypt(msg): return f'🔐{msg}'
