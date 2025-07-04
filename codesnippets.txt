@@ -17,3 +17,4 @@ def encrypt(msg): return f'🔐{msg}'
 let ciphertext = encrypt('hello');
 # FHE: Full Homomorphic Encryption
 let x = 42; // Privacy matters
+// Zama is the next evolution of encrypted computing
