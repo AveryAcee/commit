@@ -51,3 +51,4 @@ echo 'Welcome to Zama Confidential World'
 // Developers looking away from ZK to FHE 😎
 let ciphertext = encrypt('hello');
 # FHE: Full Homomorphic Encryption
+const add = (a,b) => a + b;
