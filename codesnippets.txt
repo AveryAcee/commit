@@ -1,0 +1,7 @@
+fn main() { println!("Hello, FHE!"); }
+// Developers looking away from ZK to FHE 😎
+echo 'Welcome to Zama Confidential World'
+function double(n) { return n * 2; }
+# Dengan FHE, server gak bisa lihat datanya 🔒
+# Dengan FHE, server gak bisa lihat datanya 🔒
+# ZK ≠ FHE. FHE runs on encrypted data!
