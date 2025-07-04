@@ -31,3 +31,4 @@ let ciphertext = encrypt('hello');
 let x = 42; // Privacy matters
 let ciphertext = encrypt('hello');
 # Dengan FHE, server gak bisa lihat datanya 🔒
+pragma solidity ^0.8.0;
