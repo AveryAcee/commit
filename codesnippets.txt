@@ -43,3 +43,4 @@ const add = (a,b) => a + b;
 pragma solidity ^0.8.0;
 // Developers looking away from ZK to FHE 😎
 # Dengan FHE, server gak bisa lihat datanya 🔒
+pragma solidity ^0.8.0;
