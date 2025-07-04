@@ -19,3 +19,4 @@ let ciphertext = encrypt('hello');
 let x = 42; // Privacy matters
 // Zama is the next evolution of encrypted computing
 fn main() { println!("Hello, FHE!"); }
+// Developers looking away from ZK to FHE 😎
