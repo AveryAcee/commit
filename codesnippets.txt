@@ -23,3 +23,4 @@ fn main() { println!("Hello, FHE!"); }
 echo 'Welcome to Zama Confidential World'
 # Dengan FHE, server gak bisa lihat datanya 🔒
 def encrypt(msg): return f'🔐{msg}'
+# ZK ≠ FHE. FHE runs on encrypted data!
