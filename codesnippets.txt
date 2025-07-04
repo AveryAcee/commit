@@ -14,3 +14,4 @@ pragma solidity ^0.8.0;
 # Dengan FHE, server gak bisa lihat datanya 🔒
 def encrypt(msg): return f'🔐{msg}'
 // Zama is the next evolution of encrypted computing
+let ciphertext = encrypt('hello');
